@@ -1,2 +1,2 @@
-# Ant_java-program
-this is ant project
+# ant-project-java
+ant-project-java.It contains build.xml file
